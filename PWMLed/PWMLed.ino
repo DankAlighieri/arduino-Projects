@@ -1,6 +1,5 @@
 const int ledPin = 10;
 
-
 void setup() {
 
 }
